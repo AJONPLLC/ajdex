@@ -1,18 +1,28 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+
 ---
+# AJDex
+Photos of AJ the cat.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is a similar repo as [Octodex](https://octodex.github.com/). Although there is no intention for us to make a duplicate of the Octocat it is just a great example because we have a Black Cat and [Octocat](https://github.com/octocat) is usually black and has cat like ears 😺
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# Why AJDex
+Well I am a developer but I pretend to be artistic with my stick figure attempts. I would love the community to be able to share their cool designs and come up with a nice logo for the site!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+# AJonP - Resources - How to Contact the community
+🎥 YouTube: https://bit.ly/ajonp-youtube-sub  
+🌎 Site: https://ajonp.com  
+📦 GitHub: https://github.com/ajonpllc  
+🎓Lessons: https://ajonp.com/lessons/   
+🗞AJ’s Week in Web: https://bit.ly/aj-week-in-web   
+💬 Slack: https://bit.ly/ajonp-slack-invite   
+🐦 Twitter: https://bit.ly/ajonp-twitter  
 
-
-[jekyll-organization]: https://github.com/jekyll
+# AJ Requirements
+## Looks
+Must be cat like, and have a collar with AJ on it...yep thats it.
+![AJ Logo](https://res.cloudinary.com/ajonp/image/upload/f_auto,fl_lossy,q_auto,w_800/v1549640244/aj_channel_icon_nxfuvf.png)
+![AJ Front Logo](https://res.cloudinary.com/ajonp/image/upload/f_auto,fl_lossy,q_auto,w_800/v1549642369/AJ_FrontFacingCollar_npllj0.png)
